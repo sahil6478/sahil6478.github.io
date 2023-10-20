@@ -1,0 +1,41 @@
+html {
+    font-family: sans-serif;
+  }
+  .shadowbox {
+    width: 500px;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 100px 0;
+    background-image: linear-gradient(180deg, #f80505, #f70505 40%, #f80505);
+    height: 500px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    background-color: red;
+    text-shadow: black;
+    border-radius: 10px;
+    border-color: 1px solid darkred;
+    background: linear-gradient(45deg, transparent 0%, transparent 30%, red(0, 0, 0, 0.2) 30%, red(0, 0, 0, 0.2) 100%);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  body,div { font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 100px 0;
+    text-align: center;
+    
+    
+    
+    
+
+    
+    
+    
+
+  }
+  /* Your CSS below here */
